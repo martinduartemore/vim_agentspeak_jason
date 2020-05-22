@@ -29,3 +29,4 @@ This project is based on the following work:
 * [jason-lang/jason-eclipse-plugin](https://github.com/jason-lang/jason-eclipse-plugin)
 * [wfdd/language-agentspeak](https://github.com/wfdd/language-agentspeak)
 * [TimKam/code-mas2j](https://github.com/TimKam/code-mas2j)
+* [Icemole/nano-highlight-asl](https://github.com/Icemole/nano-highlight-asl)

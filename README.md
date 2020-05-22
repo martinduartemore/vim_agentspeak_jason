@@ -8,7 +8,7 @@ This project provides syntax highlighting files for two file types:
 Manual Instalation: copy files to their respective directories in your vim
 folder (`~/.vim/`).
 
-You can also use plugin managers from vim. Example using
+You can also use Vim plugin managers. Example using
 [vim-plug](https://github.com/junegunn/vim-plug):
 
 * Add the following to your `~/.vimrc`:

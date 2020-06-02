@@ -1,4 +1,4 @@
-# Jason Syntax Highlight for Vim
+# AgentSpeak + Jason Syntax Highlighting for Vim
 This project provides syntax highlighting files for two file types:
 * `.mas2j`: [Jason](http://jason.sf.net) project files
 * `.asl`: [AgentSpeak](https://en.wikipedia.org/wiki/AgentSpeak) files

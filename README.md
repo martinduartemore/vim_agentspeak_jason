@@ -14,6 +14,7 @@ You can also use Vim plugin managers. Example using
 * Add the following to your `~/.vimrc`:
 ```vim
 " You need to install vim-plugged first
+
 call plug#begin('~/.vim/plugged')
 Plug 'martinduartemore/vim_agentspeak_jason'
 call plug#end()
@@ -22,8 +23,7 @@ call plug#end()
 * Restart Vim and run `:PlugInstall` to install the plugin
 
 
-## Credits
-This project is based on the following work:
+## Credits & Related Work
 * jEdit syntax files provided in Jason instalation
 * [jason-lang/atom-mas2j](https://github.com/jason-lang/atom-mas2j)
 * [jason-lang/jason-eclipse-plugin](https://github.com/jason-lang/jason-eclipse-plugin)
